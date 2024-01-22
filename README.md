@@ -1,3 +1,3 @@
 # uusi-repo
 
-Itse sovellus main branchissa
+Itse sovellus new-branch - branchissa
