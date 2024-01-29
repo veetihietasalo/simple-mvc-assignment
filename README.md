@@ -1,3 +1,3 @@
 simple mvc assignment
 
-Itse sovellus new-branch - branchissa
+app not in main branch
